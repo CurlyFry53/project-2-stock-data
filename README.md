@@ -3,6 +3,14 @@
     - Project 2. 
     - March 4th, 2024
 
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Key Features](#key-features)
+3. [Future Additions](#future-additions)
+4. [Team](#team)
+5. [License](#license)
+   
 ## Overview
 
 Prospect Pulse is a web-based application designed for retail investors looking to make informed decisions in index fund investing. Leveraging cutting-edge AI technology, our platform provides predictive analytics based on real-time data from the S&P500, empowering users with actionable insights to navigate the financial markets confidently.
