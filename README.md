@@ -8,8 +8,9 @@
 1. [Overview](#overview)
 2. [Key Features](#key-features)
 3. [Future Additions](#future-additions)
-4. [Team](#team)
-5. [License](#license)
+4. [Website](#website)
+5. [Team](#team)
+6. [License](#license)
    
 ## Overview
 
@@ -32,6 +33,10 @@ Beyond forecasting, Prospector Pulse is committed to investor empowerment throug
 ### Future Additions
 
 In the future, Prospector Pulse aims to expand its offerings to include portfolio management tools and a marketplace for purchasing stocks and other investments. This expansion will position us as a competitor to established retail investment companies like Robinhood, providing retail investors with a comprehensive platform for managing their investments.
+
+## Website
+
+Visit our website [here](https://mikeamcpherson.wixsite.com/my-site/home) to learn more about Prospector Pulse and stay updated on our latest developments.
 
 ## Team
 
